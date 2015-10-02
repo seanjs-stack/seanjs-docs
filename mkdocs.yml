@@ -1,5 +1,4 @@
 site_name: SEAN.JS
 pages:
 - Home: index.md
-- About: about.md
 theme: readthedocs
